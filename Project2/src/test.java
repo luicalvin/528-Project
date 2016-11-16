@@ -4,10 +4,10 @@
  * and open the template in the editor.
  */
 
-/**
- *
- * @author cklui
+/*o
+ * @author ckluihe is such an idios and james idiot
  */
 public class test {
     //blah blah blah 
+    //james is such an idiot
 }
